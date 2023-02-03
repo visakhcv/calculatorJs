@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@800&display=swap');
+h1{
+    font-family: 'Unbounded', cursive;
+}
+.row{
+    text-align: center;
+}
+
+
+.btn{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+}
+
+.main{
+    height: 650px;
+    border-radius: 5%;
+    
+}
+.head{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.form-control{
+    height: 70px;
+}
+.btn-info{
+    font-size: 2rem;
+    font-weight: 500;
+}
